@@ -28,7 +28,7 @@ The workbook includes:
 
 The workbook also documents the provenance of the PRISMA stages and the relationship between the different screening and analysis datasets.
 
-### `pipeline_01_unified_slr_pipeline.py`
+### `slr_pipeline.py`
 
 This Python script provides the **reproducible SLR processing pipeline**. It:
 
